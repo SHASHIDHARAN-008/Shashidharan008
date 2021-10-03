@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Shashidharan
-- 👀 I’m interested in Gaming
-- 🌱 I’m currently learning Life
-- 😥 programming is too boring and stressful😂never ever become one.
+- Hi, I’m @Shashidharan
+- Intermediate Developer
+- Computer Science and Engineering Graduate
+- Employee of Cognizant Technology Solutions
 
 <!---
 Shashidharan008/Shashidharan008 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
